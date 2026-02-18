@@ -4,7 +4,7 @@ Todo管理アプリ
 
 ### 構成
 
-- **backend/**: Python / FastAPI / SQLModel / SQLite（または MySQL）
+- **backend/**: Python / FastAPI / SQLModel / MySQL
 - **frontend/**: React / Next.js (App Router) / Tailwind
 
 ---
